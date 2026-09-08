@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zombie\\Debug\\Pickup.obj",
+            "outputs": [
+                "Zombie\\Debug\\Pickup.h.obj.dt.module.json",
+                "Zombie\\Debug\\Pickup.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+﻿  ZombieArena.cpp
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(34,30): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(34,30): warning C4244:         with
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(34,30): warning C4244:         [
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(34,30): warning C4244:             T=float
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(34,30): warning C4244:         ]
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(36,30): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(36,30): warning C4244:         with
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(36,30): warning C4244:         [
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(36,30): warning C4244:             T=float
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(36,30): warning C4244:         ]
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,37): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,37): warning C4244:         with
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,37): warning C4244:         [
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,37): warning C4244:             T=float
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,37): warning C4244:         ]
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,23): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,23): warning C4244:         with
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,23): warning C4244:         [
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,23): warning C4244:             T=float
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(38,23): warning C4244:         ]
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(664,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(664,50): warning C4244:         with
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(664,50): warning C4244:         [
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(664,50): warning C4244:             T=float
+C:\Users\Mysterio95\source\repos\Zombie\ZombieArena.cpp(664,50): warning C4244:         ]
+  Zombie.vcxproj -> C:\Users\Mysterio95\source\repos\Zombie\Debug\Zombie.exe

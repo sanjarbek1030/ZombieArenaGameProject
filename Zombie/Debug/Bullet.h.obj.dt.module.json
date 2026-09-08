@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zombie\\Debug\\Bullet.obj",
+            "outputs": [
+                "Zombie\\Debug\\Bullet.h.obj.dt.module.json",
+                "Zombie\\Debug\\Bullet.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zombie\\Debug\\CreateHorde.obj",
+            "outputs": [
+                "Zombie\\Debug\\CreateHorde.cpp.obj.dt.module.json",
+                "Zombie\\Debug\\CreateHorde.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}

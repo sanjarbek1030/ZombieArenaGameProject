@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "Zombie\\Debug\\TextureHolder.obj",
+            "outputs": [
+                "Zombie\\Debug\\TextureHolder.cpp.obj.dt.module.json",
+                "Zombie\\Debug\\TextureHolder.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
